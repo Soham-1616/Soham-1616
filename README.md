@@ -1,8 +1,11 @@
 💫 Hi 👋, I'm Soham Patil
-CS student | Python & Java Enthusiast  
+
+**CS** student | **Python** & **Java** Enthusiast  
 Exploring open source, learning by contributing  
 
-🔭 I’m currently working on:📦 Inventory Management & Demand Forecasting System  
+🔭 I’m currently working on:
+
+📦 Inventory Management & Demand Forecasting System  
 Full-stack retail management app with ML-based demand forecasting.
 
 📫 How to reach me: sohampatil200616@gmail.com
